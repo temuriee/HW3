@@ -29,14 +29,12 @@
     letter-spacing: 4%;
     text-transform: uppercase;
     color: #3A3845;
-    margin-top: 64px;
-   
+    margin: 64px 78.5px 24px;
 }
 .text-container p{
     color: #595667;
     line-height: 24px;
-    margin-top: 24px;
-   
+    margin: 0 83px 32px;
 }
     a{
     font-weight: 700;
@@ -45,7 +43,6 @@
     letter-spacing: 6%;
     text-transform: uppercase;
     color: #3A3845;
-    padding-top:50px; ;
 }
 .image-container img{
  width: 555px;
